@@ -10,7 +10,7 @@ Please install Python 3.6+ and psycopg2
 
 psycopg2 can most easily be installed with:
 
-   pip install psycopg2-binary
+    pip install psycopg2-binary
 
 inside a virtualenv or globally.
 
